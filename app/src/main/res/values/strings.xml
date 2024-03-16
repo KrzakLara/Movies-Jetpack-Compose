@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="cinema">Cinema</string>
+    <string name="updated_by_Lara">Azurirano od strane Lare</string>
+    <string name="alpha">alpha</string>
+    <string name="movies">Movies</string>
+    <string name="map">Map</string>
+    <string name="about">About</string>
+    <string name="authentication">Authentication</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="person">Person</string>
+    <string name="email_address">Email address</string>
+    <string name="password">Password</string>
+    <string name="unable_to_login">Unable to login</string>
+    <string name="unable_to_register">Unable to register</string>
+    <string name="close">Close</string>
+    <string name="like">Like</string>
+    <string name="delete">Delete</string>
+    <string name="settings">Settings</string>
+    <string name="toggle_theme">Toggle Dark/Light Theme</string>
+    <string name="description">Embark on an unparalleled journey through the world of movies with Movie Explorer, the premier app designed for movie lovers by movie lovers. Our extensive library spans from the golden age of cinema to the latest box office hits, offering something special for both casual viewers and film aficionados alike. Movie Explorer is crafted to elevate your movie-watching experience, making every movie night an unforgettable adventure.\n\nNavigate our expertly curated lists to discover new favorites, hidden gems, and critically acclaimed films. From spine-tingling thrillers to heartwarming romances, find a movie for every mood and moment. Get a taste of the action, drama, and magic before you watch with high-definition trailers and exclusive sneak peeks. Enjoy personalized movie recommendations tailored to your viewing habits and preferences, ensuring your next favorite film is just a tap away.</string>
+    <string name="send_feedback">Send feedback</string>
+    <string name="cancel">Cancel\n</string>
+    <string name="feedback_prompt">Feedback</string>
+    <string name="feedback_placeholder">Please enter your feedback</string>
+    <string name="submit">Submit</string>
+    <string name="feedback_title">Feedback title</string>
+
+
+</resources>

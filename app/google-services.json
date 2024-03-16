@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1075161106261",
+    "project_id": "movies-4911d",
+    "storage_bucket": "movies-4911d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075161106261:android:4fec44d190c333c70e11dc",
+        "android_client_info": {
+          "package_name": "hr.algebra.movies"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpOxwVmkgxZHzkEhTG6VmYduMjhQ1dxG0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Filmovi</string>
+    <string name="cinema">Kino</string>
+    <string name="updated_od_strane_Lare">Updateano od strane Lare</string>
+    <string name="alpha">alfa</string>
+    <string name="movies">Filmovi</string>
+    <string name="map">Karta</string>
+    <string name="about">O aplikaciji</string>
+    <string name="authentication">Autentifikacija</string>
+    <string name="login">Prijava</string>
+    <string name="register">Registracija</string>
+    <string name="person">Osoba</string>
+    <string name="email_address">Email adresa</string>
+    <string name="password">Lozinka</string>
+    <string name="unable_to_login">Nije moguće prijaviti se</string>
+    <string name="unable_to_register">Nije moguće registrirati se</string>
+    <string name="close">Zatvori</string>
+    <string name="like">Sviđa mi se</string>
+    <string name="delete">Izbriši</string>
+    <string name="settings">Postavke</string>
+    <string name="toggle_theme">Uključi/isključi tamnu/svijetlu temu</string>
+    <string name="description">Započnite neusporedivo putovanje kroz svijet filmova s Movie Explorer, vodećom aplikacijom dizajniranom za ljubitelje filmova od strane ljubitelja filmova. Naša opsežna knjižnica proteže se od zlatnog doba kina do najnovijih filmskih hitova, nudeći nešto posebno kako za povremene gledatelje tako i za filmske znalce. Movie Explorer je stvoren kako bi poboljšao vaše iskustvo gledanja filmova, čineći svaku filmsku noć nezaboravnim doživljajem.\n\nNavigirajte našim stručno kuriranim popisima kako biste otkrili nove favorite, skrivene dragulje i kritički hvaljene filmove. Od trilera koji ledi krv u žilama do srdačnih romansi, pronađite film za svako raspoloženje i trenutak. Okusite akciju, dramu i magiju prije gledanja s visokokvalitetnim trailerima i ekskluzivnim uvidima. Uživajte u personaliziranim preporukama filmova prilagođenim vašim navikama i preferencijama, osiguravajući da je vaš sljedeći omiljeni film samo jedan dodir daleko.</string>
+    <string name="send_feedback">Pošaljite povratne informacije</string>
+    <string name="cancel">Otkaži</string>
+    <string name="feedback_prompt">Povratne informacije</string>
+    <string name="feedback_placeholder">Molimo unesite vaše povratne informacije</string>
+    <string name="submit">Pošalji</string>
+    <string name="feedback_title">Naslov povratnih informacija</string>
+
+</resources>
